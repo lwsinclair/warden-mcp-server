@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/run-as-root-warden-mcp-server-badge.png)](https://mseep.ai/app/run-as-root-warden-mcp-server)
+
 # Warden Magento MCP Server
 
 A comprehensive Model Context Protocol (MCP) server that provides seamless integration between AI assistants and Warden + Magento 2 development environments. This server enables AI assistants to interact directly with your Warden-managed Magento projects, automating common development tasks and providing intelligent assistance for complex workflows.
